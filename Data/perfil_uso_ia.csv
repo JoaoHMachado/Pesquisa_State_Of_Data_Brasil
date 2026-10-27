@@ -1,0 +1,13 @@
+"ano_pesquisa","classificacao_ia","quantidade","total_participantes","total_respostas_validas","percentual_total","percentual_respostas_validas"
+"2023","Nao respondeu","1521","5293","3746","28.74",
+"2023","Resposta conflitante","26","5293","3746","0.49",
+"2023","Utiliza IA","3028","5293","3746","57.21","80.83"
+"2023","Nao utiliza","718","5293","3746","13.57","19.17"
+"2024","Nao utiliza","224","5217","3606","4.29","6.21"
+"2024","Utiliza IA","3382","5217","3606","64.83","93.79"
+"2024","Nao respondeu","1598","5217","3606","30.63",
+"2024","Resposta conflitante","13","5217","3606","0.25",
+"2025_2026","Resposta conflitante","5","3495","2101","0.14",
+"2025_2026","Nao utiliza","39","3495","2101","1.12","1.86"
+"2025_2026","Utiliza IA","2062","3495","2101","59.0","98.14"
+"2025_2026","Nao respondeu","1389","3495","2101","39.74",
